@@ -4,5 +4,6 @@ public class CPHWulf {
 
   }
   public int retVal() {}
+  public int cphStuMessing() {}
 
 }
