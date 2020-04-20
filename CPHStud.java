@@ -4,5 +4,6 @@ public class CPHStud {
   }
 
   public void Test() {
+    System.out.println("sadf");
   }
 }
