@@ -1,6 +1,7 @@
 public class CPHStud {
   String name;
   public CPHStud() {
+	  this.name = "Viggo";
   }
 
   public void Test() {
