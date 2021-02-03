@@ -4,9 +4,9 @@ public class CPHStud {
   }
 
   public void Test() {
-    System.out.println("sadf");
+    System.out.println("Kurt");
   }
   public void Test32() {
-    System.out.println("sadf");
+    System.out.println("Bor her");
   }
 }
